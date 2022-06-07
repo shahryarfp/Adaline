@@ -1,2 +1,2 @@
 # Adaline
-simple Adaline Project
+Simple Adaline Project
